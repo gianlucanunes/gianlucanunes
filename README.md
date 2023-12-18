@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 ## Connect with Me
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/gianluca-nunes/]
+- 🔗 LinkedIn: !ClickMe[https://www.linkedin.com/in/gianluca-nunes/]
 
 ## Fun Facts
 
