@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPO1zfvF3c1xFhC/giphy.gif" width="400" alt="Mr Robot Hello Friend" />
+  <img src="./1.gif" />
 </p>
 
 ---
