@@ -5,27 +5,29 @@
 <p align="center">
   <img src="./1.gif" />
   <br><br>
-  <div style="text-align: center; margin: 40px 0;">
+</p>
+
+<div style="text-align: center; margin: 40px 0;">
   <blockquote style="font-family: 'Fira Code', monospace; font-size: 24px; color: #CCCCCC; background-color: #1A1A1A; padding: 20px; border-left: 5px solid #F70000; border-radius: 10px; display: inline-block; max-width: 800px;">
     <p style="margin: 0;">"The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing."</p>
     <footer style="margin-top: 10px; font-size: 18px; color: #AAAAAA;">– Mr. Robot</footer>
   </blockquote>
 </div>
-</p>
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gianluca-nunes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/PurpleShivaTeam/purpleshivatools" target="_blank">
-    <img src="https://img.shields.io/badge/Purple Shiva Tools-800080?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Purple Shiva Tools"/>
-  </a>
-  <a href="mailto:gianluca.nulima@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+    <a href="https://www.linkedin.com/in/gianluca-nunes/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://github.com/PurpleShivaTeam/purpleshivatools" target="_blank">
+      <img src="https://img.shields.io/badge/Purple%20Shiva%20Tools-800080?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Purple Shiva Tools"/>
+    </a>
+    <a href="mailto:gianluca.nulima@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
 </p>
 
 ---
