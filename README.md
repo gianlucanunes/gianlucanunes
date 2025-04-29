@@ -20,14 +20,14 @@
       alt="LinkedIn Badge" />
   </a>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:your.email@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail Badge" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/PurpleShivaTeam/purpleshivatools" target="_blank">
     <img
       src="https://img.shields.io/badge/Purple%20Shiva%20Tools-800080?style=for-the-badge&logo=hackthebox&logoColor=white"
