@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="./1.gif" />
+  <br><br>
   *"The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing."* – *Mr. Robot*
 </p>
 
