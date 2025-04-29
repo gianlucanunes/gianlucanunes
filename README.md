@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="./1.gif" />
+  *"The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing."* – *Mr. Robot*
 </p>
 
 ---
@@ -15,6 +16,9 @@
   &nbsp;
   <a href="https://github.com/PurpleShivaTeam/purpleshivatools" target="_blank">
     <img src="https://img.shields.io/badge/Purple Shiva Tools-800080?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Purple Shiva Tools"/>
+  </a>
+  <a href="mailto:gianluca.nulima@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -42,17 +46,6 @@
 
 ---
 
-## 🧰 Projects
+## 🧰 Purple Shiva 🔱
 
-- **[Purple Shiva Tools]**: [Cybersecurity Tool created with the goal of helping those who are getting started in the cybersecurity world. This is a tool rich in docs, examples, usage and tutorials - simple to use and to modify. Read more about it <a href="https://github.com/PurpleShivaTeam/purpleshivatools" target="_blank">here</a>.]
-
-
----
-
-## 📡 Contact
-
-- 📧 [gianluca.nulima@gmail.com]
-
----
-
-> *"The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing."* – *Mr. Robot*
+- **Purple Shiva Tools**: Cybersecurity Tool created with the goal of helping those who are getting started in the cybersecurity world. This is a tool rich in docs, examples, usage and tutorials - simple to use and to modify. Read more about it <a href="https://github.com/PurpleShivaTeam/purpleshivatools" target="_blank">here</a>.
