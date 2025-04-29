@@ -44,7 +44,8 @@
 
 ## 🧰 Projects
 
-- **[Purple Shiva Tools]**: [Cybersecurity Tool created with the goal of helping those who are getting started in the cybersecurity world. This is a tool rich in d]
+- **[Purple Shiva Tools]**: [Cybersecurity Tool created with the goal of helping those who are getting started in the cybersecurity world. This is a tool rich in docs, examples, usage and tutorials - simple to use and to modify. Read more about it <a href="https://github.com/PurpleShivaTeam/purpleshivatools" target="_blank">here</a>.]
+
 
 ---
 
