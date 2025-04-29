@@ -5,7 +5,12 @@
 <p align="center">
   <img src="./1.gif" />
   <br><br>
-  *"The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing."* – *Mr. Robot*
+  <div style="text-align: center; margin: 40px 0;">
+  <blockquote style="font-family: 'Fira Code', monospace; font-size: 24px; color: #CCCCCC; background-color: #1A1A1A; padding: 20px; border-left: 5px solid #F70000; border-radius: 10px; display: inline-block; max-width: 800px;">
+    <p style="margin: 0;">"The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing."</p>
+    <footer style="margin-top: 10px; font-size: 18px; color: #AAAAAA;">– Mr. Robot</footer>
+  </blockquote>
+</div>
 </p>
 
 ---
