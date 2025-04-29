@@ -16,19 +16,17 @@
 
 ---
 
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/gianluca-nunes/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/PurpleShivaTeam/purpleshivatools" target="_blank">
-      <img src="https://img.shields.io/badge/Purple%20Shiva%20Tools-800080?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Purple Shiva Tools"/>
-    </a>
-    <a href="mailto:gianluca.nulima@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </div>
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/gianluca-nunes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/PurpleShivaTeam/purpleshivatools" target="_blank">
+    <img src="https://img.shields.io/badge/Purple%20Shiva%20Tools-800080?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Purple Shiva Tools"/>
+  </a>
+  <a href="mailto:gianluca.nulima@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 ---
 
