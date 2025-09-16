@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PurpleShivaTeam/purpleshivatools" target="_blank">
+  <a href="https://github.com/gianlucanunes/purpleshivatools" target="_blank">
     <img
       src="https://img.shields.io/badge/Purple%20Shiva%20Tools-800080?style=for-the-badge&logo=hackthebox&logoColor=white"
       alt="Purple Shiva Tools Badge" />
